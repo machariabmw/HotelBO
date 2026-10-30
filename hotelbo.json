@@ -1,6 +1,6 @@
 {
-  "version":"3.8.6.100",
-  "url":"https://github.com/machariabmw/HotelBO/releases/download/v3.8/Ray-MacHotelBOSetup3.8.6.100.exe",
+  "version":"3.8.6.200",
+  "url":"https://github.com/machariabmw/HotelBO/releases/download/v3.8/Ray-MacHotelBOSetup3.8.6.200.exe",
 
   "notes": [
     "Includes the Department Management",
@@ -8,6 +8,7 @@
     "Department Stock Transfers",
     "Department Sales Report Refined",
     "Department Sales Performance per Waiter",
-    "Department Sales Performance per Sector"
+    "Department Sales Performance per Sector",
+    "Department Sales by Session Getter"
   ]
 }
