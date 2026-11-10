@@ -1,6 +1,6 @@
 {
-  "version":"3.8.6.200",
-  "url":"https://github.com/machariabmw/HotelBO/releases/download/v3.8/Ray-MacHotelBOSetup3.8.6.200.exe",
+  "version":"3.8.6.300",
+  "url":"https://github.com/machariabmw/HotelBO/releases/download/v3.8/Ray-MacHotelBOSetup3.8.6.300.exe",
 
   "notes": [
     "Includes the Department Management",
@@ -9,6 +9,7 @@
     "Department Sales Report Refined",
     "Department Sales Performance per Waiter",
     "Department Sales Performance per Sector",
-    "Department Sales by Session Getter"
+    "Department Sales by Session Getter",
+    "Get Voided Bills Report via Voids Panel"
   ]
 }
